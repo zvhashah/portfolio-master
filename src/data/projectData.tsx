@@ -22,7 +22,7 @@ export const projectData: ProjectProps[] = [
       "I built my personal website to highlight my portfolio and accomplishments.",
     time: "2024",
     skills: [{ name: "Next.js" }],
-    link: "https://www.zuhashahsyed.com",
+    link: "https://github.com/zvhashah/portfolio-master",
     images: [portfolioWeb],
   },
   {
